@@ -1,4 +1,4 @@
-import { reduce, isArray } from './index.ts'
+import { reduce, isArray } from '../index.ts'
 
 /**
  * 이중 또는 다중 배열을 풀어주는 함수

@@ -1,4 +1,4 @@
-import { toIterator, isPromise } from './index.ts'
+import { toIterator, isPromise } from '../index.ts'
 
 /**
  * 배열에서 일정한 갯수만 꺼내주고, 실행을 해주는 함수

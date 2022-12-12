@@ -1,4 +1,4 @@
-import { flow, isPromise, toIterator, curry } from './index.ts'
+import { flow, isPromise, toIterator, curry } from '../index.ts'
 
 /**
  * 주어진 배열을 순차적으로 순회하여 원하는 결과로 만들어주는 함수

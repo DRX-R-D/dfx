@@ -1,4 +1,4 @@
-import { curry } from './index.ts'
+import { curry } from '../index.ts'
 
 /**
  * 객체에서 원하는 key의 value 값을 리턴해주는 함수

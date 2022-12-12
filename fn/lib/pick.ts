@@ -1,4 +1,4 @@
-import { reduce, curry } from './index.ts'
+import { reduce, curry } from '../index.ts'
 
 /**
  * 객체에서 특정 값들만 빼서 리턴하는 함수

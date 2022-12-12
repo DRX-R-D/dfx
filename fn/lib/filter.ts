@@ -1,4 +1,4 @@
-import { curry, flow, take, toIterator } from './index.ts'
+import { curry, flow, take, toIterator } from '../index.ts'
 
 /**
  * 해당 조건에 맞는 값만 걸러내주는 함수

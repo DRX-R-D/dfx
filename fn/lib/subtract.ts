@@ -1,4 +1,4 @@
-import { reduce, flat } from './index.ts'
+import { reduce, flat } from '../index.ts'
 
 /**
  * 인자로 들어온 값들의 차를 구해주는 함수

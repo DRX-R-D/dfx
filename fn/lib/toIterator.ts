@@ -1,4 +1,4 @@
-import { empty } from './index.ts'
+import { empty } from '../index.ts'
 
 /**
  * 값을 제너레이터로 바꿔주는 함수

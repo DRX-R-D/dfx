@@ -1,4 +1,4 @@
-import { curry } from './index.ts'
+import { curry } from '../index.ts'
 
 /**
  * 특정 조건으로 배열을 정렬 시키는 함수
