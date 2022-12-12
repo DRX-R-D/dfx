@@ -1,4 +1,4 @@
-import take from './take.ts'
+import { take } from './index.ts'
 
 /**
  * 객체를 [key, value] 형태로된 배열로 바꾸어 반환하는 함수
