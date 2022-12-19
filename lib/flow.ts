@@ -1,4 +1,4 @@
-import { isPromise } from '../index.ts'
+import { isPromise } from './index.ts'
 
 /**
  * 함수의 흐름을 이어주는 함수

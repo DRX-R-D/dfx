@@ -1,4 +1,4 @@
-import { reduce, flat } from '../index.ts'
+import { reduce, flat } from './index.ts'
 
 /**
  * 주어진 배열의 숫자들을 모두 더하는 함수
