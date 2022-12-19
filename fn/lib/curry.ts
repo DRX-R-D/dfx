@@ -7,8 +7,8 @@
  * */
 
 const curry =
-  <T = any>(callback: (...args: any) => T) =>
-    (arg, ...args) =>
-      args.length ? callback(arg, ...args) : (...args) => callback(arg, ...args)
+  <T = any>(callback: (...rest: any) => T) =>
+    (params: any, ...rest: any[]) =>
+      rest.length ? callback(params, ...rest) : (...rest: any[]) => callback(params, ...rest)
 
 export default curry
